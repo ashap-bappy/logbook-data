@@ -1,6 +1,8 @@
 {
+ "deviceId": "msc6ttjk-9eeizv",
  "startDate": "2026-08-03",
  "planWeek": 1,
+ "updatedAt": 0,
  "weeks": {
   "1": {
    "gates": [
@@ -13,7 +15,5 @@
    "updatedAt": 0
   }
  },
- "entries": [],
- "deviceId": "msc68w2d-rbr1oo",
- "updatedAt": 0
+ "entries": []
 }
