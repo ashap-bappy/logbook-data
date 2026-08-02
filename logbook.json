@@ -2,17 +2,17 @@
  "deviceId": "msc6ttjk-9eeizv",
  "startDate": "2026-08-03",
  "planWeek": 1,
- "updatedAt": 0,
+ "updatedAt": 1785698680046,
  "weeks": {
   "1": {
    "gates": [
-    false,
+    true,
     false,
     false
    ],
    "writeup": "",
    "endorsedAt": null,
-   "updatedAt": 0
+   "updatedAt": 1785698680046
   }
  },
  "entries": []
