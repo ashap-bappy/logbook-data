@@ -1,0 +1,19 @@
+{
+ "startDate": "2026-08-03",
+ "planWeek": 1,
+ "weeks": {
+  "1": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 0
+  }
+ },
+ "entries": [],
+ "deviceId": "msc68w2d-rbr1oo",
+ "updatedAt": 0
+}
