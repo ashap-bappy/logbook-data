@@ -2,7 +2,7 @@
  "deviceId": "msc68w2d-rbr1oo",
  "startDate": "2026-08-03",
  "planWeek": 1,
- "updatedAt": 1785773819902,
+ "updatedAt": 1785777765809,
  "weeks": {
   "1": {
    "gates": [
@@ -536,6 +536,16 @@
    "block": "5.0",
    "updatedAt": 1785773819902,
    "del": 1785773819902
+  },
+  {
+   "id": "msdhz2r5-e1djmo",
+   "date": "2026-08-03",
+   "hours": 2,
+   "bucket": "study",
+   "note": "D1 Orient",
+   "week": 1,
+   "block": "0.0",
+   "updatedAt": 1785777765809
   }
  ]
 }
