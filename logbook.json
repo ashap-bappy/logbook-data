@@ -2,7 +2,7 @@
  "deviceId": "msc68w2d-rbr1oo",
  "startDate": "2026-08-03",
  "planWeek": 1,
- "updatedAt": 1785698833690,
+ "updatedAt": 1785773805889,
  "weeks": {
   "1": {
    "gates": [
@@ -525,5 +525,16 @@
    "updatedAt": 1785698833690
   }
  },
- "entries": []
+ "entries": [
+  {
+   "id": "msdfm79d-02ig25",
+   "date": "2026-08-03",
+   "hours": 2,
+   "bucket": "drip",
+   "note": "D6 Drip & write",
+   "week": 1,
+   "block": "5.0",
+   "updatedAt": 1785773805889
+  }
+ ]
 }
