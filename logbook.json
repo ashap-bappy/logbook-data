@@ -2,7 +2,7 @@
  "deviceId": "msc68w2d-rbr1oo",
  "startDate": "2026-09-01",
  "planWeek": 1,
- "updatedAt": 1787792845440,
+ "updatedAt": 1787792856490,
  "weeks": {
   "1": {
    "gates": [
@@ -565,7 +565,8 @@
    "bucket": "build",
    "note": "",
    "week": 1,
-   "updatedAt": 1787792834221
+   "updatedAt": 1787792854952,
+   "del": 1787792854952
   },
   {
    "id": "mtatp6xk-t9a42x",
@@ -574,7 +575,8 @@
    "bucket": "build",
    "note": "",
    "week": 1,
-   "updatedAt": 1787792843864
+   "updatedAt": 1787792855754,
+   "del": 1787792855754
   },
   {
    "id": "mtatp7m2-e121af",
@@ -583,7 +585,8 @@
    "bucket": "build",
    "note": "",
    "week": 1,
-   "updatedAt": 1787792844746
+   "updatedAt": 1787792853991,
+   "del": 1787792853991
   },
   {
    "id": "mtatp85c-5spj5j",
@@ -592,7 +595,8 @@
    "bucket": "build",
    "note": "",
    "week": 1,
-   "updatedAt": 1787792845440
+   "updatedAt": 1787792856490,
+   "del": 1787792856490
   }
  ]
 }
