@@ -2,7 +2,7 @@
  "deviceId": "msc68w2d-rbr1oo",
  "startDate": "2026-09-01",
  "planWeek": 1,
- "updatedAt": 1787792834221,
+ "updatedAt": 1787792845440,
  "weeks": {
   "1": {
    "gates": [
@@ -566,6 +566,33 @@
    "note": "",
    "week": 1,
    "updatedAt": 1787792834221
+  },
+  {
+   "id": "mtatp6xk-t9a42x",
+   "date": "2026-08-27",
+   "hours": 1.5,
+   "bucket": "build",
+   "note": "",
+   "week": 1,
+   "updatedAt": 1787792843864
+  },
+  {
+   "id": "mtatp7m2-e121af",
+   "date": "2026-08-27",
+   "hours": 1.5,
+   "bucket": "build",
+   "note": "",
+   "week": 1,
+   "updatedAt": 1787792844746
+  },
+  {
+   "id": "mtatp85c-5spj5j",
+   "date": "2026-08-27",
+   "hours": 1.5,
+   "bucket": "build",
+   "note": "",
+   "week": 1,
+   "updatedAt": 1787792845440
   }
  ]
 }
