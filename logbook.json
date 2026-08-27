@@ -2,7 +2,7 @@
  "deviceId": "msc68w2d-rbr1oo",
  "startDate": "2026-09-01",
  "planWeek": 1,
- "updatedAt": 1787792818037,
+ "updatedAt": 1787792834221,
  "weeks": {
   "1": {
    "gates": [
@@ -557,6 +557,15 @@
    "week": 1,
    "updatedAt": 1787792818037,
    "del": 1787792818037
+  },
+  {
+   "id": "mtatozhp-kwanan",
+   "date": "2026-08-27",
+   "hours": 1.5,
+   "bucket": "build",
+   "note": "",
+   "week": 1,
+   "updatedAt": 1787792834221
   }
  ]
 }
