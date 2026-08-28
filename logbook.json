@@ -2,7 +2,7 @@
  "deviceId": "mtc954fl-gnr2pz",
  "startDate": "2026-08-28",
  "planWeek": 1,
- "updatedAt": 1787879661421,
+ "updatedAt": 1787879667415,
  "weeks": {
   "1": {
    "gates": [
@@ -24,7 +24,8 @@
    "note": "D1 Orient",
    "week": 1,
    "block": "0.0",
-   "updatedAt": 1787879661421
+   "updatedAt": 1787879667415,
+   "del": 1787879667415
   }
  ]
 }
