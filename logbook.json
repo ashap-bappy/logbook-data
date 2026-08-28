@@ -1,31 +1,8 @@
 {
- "deviceId": "mtc954fl-gnr2pz",
- "startDate": "2026-08-28",
+ "startDate": null,
  "planWeek": 1,
- "updatedAt": 1787879667415,
- "weeks": {
-  "1": {
-   "gates": [
-    false,
-    false,
-    false
-   ],
-   "writeup": "",
-   "endorsedAt": null,
-   "updatedAt": 1787879661421
-  }
- },
- "entries": [
-  {
-   "id": "mtc9dzsd-3huh99",
-   "date": "2026-08-28",
-   "hours": 2,
-   "bucket": "study",
-   "note": "D1 Orient",
-   "week": 1,
-   "block": "0.0",
-   "updatedAt": 1787879667415,
-   "del": 1787879667415
-  }
- ]
+ "weeks": {},
+ "entries": [],
+ "deviceId": "mtc9ect1-v6s8gm",
+ "updatedAt": 1787879678293
 }
