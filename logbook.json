@@ -1,8 +1,19 @@
 {
+ "deviceId": "mtc9ect1-v6s8gm",
  "startDate": null,
  "planWeek": 1,
- "weeks": {},
- "entries": [],
- "deviceId": "mtc9ect1-v6s8gm",
- "updatedAt": 1787879678293
+ "updatedAt": 1787879678293,
+ "weeks": {
+  "1": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1787879678293
+  }
+ },
+ "entries": []
 }
