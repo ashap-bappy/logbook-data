@@ -1,8 +1,120 @@
 {
- "startDate": null,
- "planWeek": 1,
- "weeks": {},
- "entries": [],
  "deviceId": "mtz21cgv-sbkzmo",
- "updatedAt": 1789258036063
+ "startDate": "2026-09-13",
+ "planWeek": 1,
+ "updatedAt": 1789259046318,
+ "weeks": {
+  "1": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1789259046318
+  },
+  "2": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1789259046318
+  },
+  "3": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1789259046318
+  },
+  "4": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1789259046318
+  },
+  "5": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1789259046318
+  },
+  "6": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1789259046318
+  },
+  "7": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1789259046318
+  },
+  "8": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1789259046318
+  },
+  "9": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1789259046318
+  },
+  "10": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1789259046318
+  }
+ },
+ "entries": [
+  {
+   "id": "mtz2mzzi-m68lq5",
+   "date": "2026-09-13",
+   "hours": 1,
+   "bucket": "build",
+   "note": "D1 Orient",
+   "week": 1,
+   "block": "0.1",
+   "updatedAt": 1789259046318
+  }
+ ]
 }
