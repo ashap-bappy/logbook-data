@@ -2,7 +2,7 @@
  "deviceId": "mtz21cgv-sbkzmo",
  "startDate": "2026-09-13",
  "planWeek": 1,
- "updatedAt": 1789259046318,
+ "updatedAt": 1789259051520,
  "weeks": {
   "1": {
    "gates": [
@@ -114,7 +114,8 @@
    "note": "D1 Orient",
    "week": 1,
    "block": "0.1",
-   "updatedAt": 1789259046318
+   "updatedAt": 1789259051520,
+   "del": 1789259051520
   }
  ]
 }
