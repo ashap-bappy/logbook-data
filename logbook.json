@@ -1,19 +1,8 @@
 {
- "deviceId": "mu02jey4-l859i9",
  "startDate": null,
  "planWeek": 1,
- "updatedAt": 1789319345261,
- "weeks": {
-  "1": {
-   "gates": [
-    false,
-    false,
-    false
-   ],
-   "writeup": "",
-   "endorsedAt": null,
-   "updatedAt": 1789319345261
-  }
- },
- "entries": []
+ "weeks": {},
+ "entries": [],
+ "deviceId": "muv1mrtf-bb0stx",
+ "updatedAt": 1791192273747
 }
