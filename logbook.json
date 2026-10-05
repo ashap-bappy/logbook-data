@@ -1,8 +1,19 @@
 {
+ "deviceId": "muv1mrtf-bb0stx",
  "startDate": null,
  "planWeek": 1,
- "weeks": {},
- "entries": [],
- "deviceId": "muv1mrtf-bb0stx",
- "updatedAt": 1791192273747
+ "updatedAt": 1791192273747,
+ "weeks": {
+  "1": {
+   "gates": [
+    false,
+    false,
+    false
+   ],
+   "writeup": "",
+   "endorsedAt": null,
+   "updatedAt": 1791192273747
+  }
+ },
+ "entries": []
 }
